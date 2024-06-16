@@ -25,5 +25,5 @@ class SinteringEntryPoint(SchemaPackageEntryPoint):
 
 sintering = SinteringEntryPoint(
     name='Sintering',
-    description='Schema package for describing a sintering process.',
+    description='Schema package defined using the new plugin mechanism - Sintering.',
 )
